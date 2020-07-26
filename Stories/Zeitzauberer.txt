@@ -1,7 +1,6 @@
 Zeitzauberer
 
 
-
 Gestartet	Keys: next/nback
 
 Wilkommen Abenteurer. Es erwartet dich eine Geschichte in einer unbekannten Welt und mit unbekannten Folgen.
