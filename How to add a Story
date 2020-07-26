@@ -1,0 +1,29 @@
+1. Write an epic or boring Story AND make sure to keep the standarts (see below).
+
+2. Add this txt-file to the Stories folder.
+
+3. Write an Issue. There you should say that you have add an nice story and i can implement your story.
+
+
+
+
+
+
+
+The Form of a Story:
+(-> First write a txt-file)
+-title
+
+-state  keys: 
+-text of the state (the text which read from the player)
+
+-state  keys:
+-text of state
+
+...
+
+Explanation:
+The State defines the point of the Story and is importend for the programming. If you have a branch of the story, the state should call the same with a V1,2,... for version. But you dont have to do this so.
+The Keys are the keywords for the desicions.
+
+-> If this wasnt a good describtion (maybe because of my bad english), you should see the written stories in the folder. There you can learn from the practise.
